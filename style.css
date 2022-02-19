@@ -1,0 +1,38 @@
+#top-of-car {
+  background-color: red;
+  height: 35px;
+  width: 90px;
+  position: relative;
+  margin-top: 253px;
+  margin-left: 600px;
+  border-radius: 4px;
+}
+
+#body-of-car {
+  background-color: red;
+  height: 50px;
+  width: 200px;
+  position: relative;
+  margin-top: -1px;
+  margin-left: 550px;
+  border-radius: 5px;
+  animation-duration: 2s;
+}
+
+#rear-wheel {
+  background-color: black;
+  height: 35px;
+  width: 35px;
+  border-radius: 50px;
+  margin-top: 1px;
+  margin-left: 570px;
+}
+
+#front-wheel {
+  background-color: black;
+  height: 35px;
+  width: 35px;
+  border-radius: 50px;
+  margin-top: -34px;
+  margin-left: 700px;
+}
